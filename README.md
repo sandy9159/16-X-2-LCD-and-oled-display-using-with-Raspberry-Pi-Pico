@@ -257,6 +257,15 @@ class LcdApi:
         
         
 ``````        
+
+
+
+
+![10000000_371783094596508_6335027578223470645_n_2](https://user-images.githubusercontent.com/19898602/145060520-def1f92e-3035-45c5-8466-27f9d0be5c42.gif)
+
+
+
+
 Before moving fuurther I would like to tell you something about PCB
 
 Yes PCB are the heart of the electronics based project usually we hesitate to try custom PCB and opt to homemade solutions
@@ -349,5 +358,6 @@ Save this code in Raspberry Pi Pico and name it main.py
 Now press run button.
 
 
+![10000000_371783094596508_6335027578223470645_n_1](https://user-images.githubusercontent.com/19898602/145060105-c3abc304-6533-450e-9726-a071bfdac89c.gif)
 
 
